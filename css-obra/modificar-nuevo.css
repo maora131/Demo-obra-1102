@@ -1,0 +1,90 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
+/* DETALLES GENERALES */
+body{
+    
+    background: linear-gradient(#e6e6e6, #9e9e9e);
+    
+    font-family: 'Libre Franklin', sans-serif;
+    /* background-color: rgb(238, 238, 238); */
+}
+.container{
+    padding:5% 10% 5% 15%;
+    background-color: rgb(238, 238, 238) ;
+    width: 800px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 2%;
+    box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.308);
+}
+
+/*ENCABEZADO */
+h3{
+    color: #b81207;
+    font-family: 'Roboto', sans-serif;
+    margin-left:-8%;
+    
+}
+/* APARTADOS DE FORMULARIO */
+label{
+    padding: 2%;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;  
+}
+.btn-primary{
+    background-color: #b81207;
+    padding: 10px;
+    
+    border-radius: 5%;
+    /* border: none; */
+    border-width: 0px;
+    
+    }
+    .btn-default {
+        font-weight: bold;
+    }
+    .btn-primary:hover{
+        background-color: #db1e11;
+        border-color: #000000;
+    }
+
+
+.row{
+	margin-bottom: 10px;
+}
+
+/* FOOTER */
+
+.footer{
+    background-color:#424242;
+    text-align: center;
+    bottom: 0;
+    /* position: fixed; */
+}
+/* TEXTO FOOTER */
+.footer p{
+    color: white;
+    font-family: 'Libre Franklin', sans-serif;
+    display: inline-block;
+    margin-top: 2em;
+    margin-right: 8em;
+}
+.zimbra{
+    width: 15%;
+    margin-bottom: 1em;
+    margin-top: 2em;
+    margin-right: 7em;
+}
+.conce{
+    width: 15%;
+    margin-bottom: 1em;
+    margin-top: 2em;
+    margin-right: 7em;
+   
+}
+.portal{
+    width: 5%;
+    margin-right: 7em;
+}
