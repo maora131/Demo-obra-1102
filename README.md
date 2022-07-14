@@ -1,5 +1,5 @@
 # Demo obra - 1102
--Este ejercicio consiste en la creación de una demo del Servicio de Orientación Laboral de Vigo.<br>
+-Este ejercicio consiste en la creación (actualización) de una demo del Servicio de Orientación Laboral de Vigo.<br>
 -Esta aplicación tiene 5 secciones diferentes:<br>
 <li>Inicio de sesión: Contiene un formulario de login de sesión por el que los usuarios pueden entrar a partir de los nombres y contraseñas asignados ya en la base de datos. <br>Contiene un apartado de recordar contraseña y de recuperación. Además de una imagen inicial de portada.<br>
 <li>Página de inicio: Aquí hay una tabla con las diferentes citas a modo de agenda y notas a modo de recordatorio.<br>
